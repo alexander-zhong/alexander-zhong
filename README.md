@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on: Flowspace (Full stack productivity app) and Investigo (Student Org providing Stock Trading AI predictors)
-- 🌱 I’m currently learning: Improving my knowledge in MERN, ml frameworks and django, learning nextjs
+- 🔭 I’m currently working on: Improving latency
+- 🌱 I’m currently learning: Everything :) 
 - 👯 I’m looking to collaborate on: Happy to collab on anything :)
-- 🤔 I’m looking for help with: Trying to do my first hackathon 😭
 - 💬 Ask me about: Anything :) coding life social
 - 📫 How to reach me: https://www.linkedin.com/in/alexanderzhong/
 - 😄 Pronouns: He/him
